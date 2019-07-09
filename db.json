@@ -28,35 +28,6 @@
     "id": 5,
     "title": "Item5",
     "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 6,
-    "title": "Item6",
-    "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 7,
-    "title": "Item7",
-    "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 8,
-    "title": "Item8",
-    "completed": true
-  },
-  {
-    "userId": 1,
-    "id": 9,
-    "title": "Item9",
-    "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 10,
-    "title": "Item10",
-    "completed": true
   }
+ 
 ]
